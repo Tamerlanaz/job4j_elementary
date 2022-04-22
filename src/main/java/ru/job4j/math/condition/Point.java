@@ -1,4 +1,4 @@
-package ru.job4j.condition;
+package ru.job4j.math.condition;
 
 import static java.lang.Math.*;
 

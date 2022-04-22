@@ -1,4 +1,4 @@
-package ru.job4j.condition;
+package ru.job4j.math.condition;
 
 public class X2 {
 
