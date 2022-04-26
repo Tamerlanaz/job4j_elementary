@@ -34,6 +34,5 @@ public class FindLoopTest {
         int result = FindLoop.indexInRange(data, el, start, finish);
         int expected = -1;
         Assert.assertEquals(expected, result);
-        /*Дописать тест, когда элемент 8 в диапазоне не найден. Можно искать любой другой элемент, корректно отражая этот факт в названии теста.*/
     }
 }
