@@ -4,7 +4,6 @@ import org.junit.Assert;
 import org.junit.Test;
 import ru.job4j.math.condition.Point;
 
-
 public class PointTest {
     @Test
     public void when00to20then2() {
